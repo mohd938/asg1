@@ -1,1 +1,1 @@
-"welcome to main.txt file in main branch" 
+"welcome to main.txt file in main branch edited in private branch" 
